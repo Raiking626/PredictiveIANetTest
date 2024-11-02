@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tatiana\\source\\repos\\PredictiveAIExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54558EDF-B685-48CB-A910-4AB2692DF1DF}|PredictiveAIExample\\PredictiveAIExample.csproj|c:\\users\\tatiana\\source\\repos\\predictiveaiexample\\predictiveaiexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54558EDF-B685-48CB-A910-4AB2692DF1DF}|PredictiveAIExample\\PredictiveAIExample.csproj|solutionrelative:predictiveaiexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54558EDF-B685-48CB-A910-4AB2692DF1DF}|PredictiveAIExample\\PredictiveAIExample.csproj|c:\\users\\tatiana\\source\\repos\\predictiveaiexample\\predictiveaiexample\\housepriceprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54558EDF-B685-48CB-A910-4AB2692DF1DF}|PredictiveAIExample\\PredictiveAIExample.csproj|solutionrelative:predictiveaiexample\\housepriceprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54558EDF-B685-48CB-A910-4AB2692DF1DF}|PredictiveAIExample\\PredictiveAIExample.csproj|c:\\users\\tatiana\\source\\repos\\predictiveaiexample\\predictiveaiexample\\housedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54558EDF-B685-48CB-A910-4AB2692DF1DF}|PredictiveAIExample\\PredictiveAIExample.csproj|solutionrelative:predictiveaiexample\\housedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 212,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HousePricePrediction.cs",
+              "DocumentMoniker": "C:\\Users\\Tatiana\\source\\repos\\PredictiveAIExample\\PredictiveAIExample\\HousePricePrediction.cs",
+              "RelativeDocumentMoniker": "PredictiveAIExample\\HousePricePrediction.cs",
+              "ToolTip": "C:\\Users\\Tatiana\\source\\repos\\PredictiveAIExample\\PredictiveAIExample\\HousePricePrediction.cs",
+              "RelativeToolTip": "PredictiveAIExample\\HousePricePrediction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:31:21.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HouseData.cs",
+              "DocumentMoniker": "C:\\Users\\Tatiana\\source\\repos\\PredictiveAIExample\\PredictiveAIExample\\HouseData.cs",
+              "RelativeDocumentMoniker": "PredictiveAIExample\\HouseData.cs",
+              "ToolTip": "C:\\Users\\Tatiana\\source\\repos\\PredictiveAIExample\\PredictiveAIExample\\HouseData.cs",
+              "RelativeToolTip": "PredictiveAIExample\\HouseData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:31:05.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tatiana\\source\\repos\\PredictiveAIExample\\PredictiveAIExample\\Program.cs",
+              "RelativeDocumentMoniker": "PredictiveAIExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Tatiana\\source\\repos\\PredictiveAIExample\\PredictiveAIExample\\Program.cs",
+              "RelativeToolTip": "PredictiveAIExample\\Program.cs",
+              "ViewState": "AgIAAAUAAABAMzMzMzMbwBIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:20:55.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
